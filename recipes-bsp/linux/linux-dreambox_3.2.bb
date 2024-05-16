@@ -43,6 +43,7 @@ SRC_URI = " \
 			file://033-STV-Add-SNR-Signal-report-parameters.patch  \
 			file://034-stv090x-optimized-TS-sync-control.patch \
 			file://035-tbs.patch \
+			file://036-suppress-array-bounds-error.patch \
 			file://defconfig \
 "
 
